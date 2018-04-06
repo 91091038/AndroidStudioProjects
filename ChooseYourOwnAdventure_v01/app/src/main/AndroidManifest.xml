@@ -19,7 +19,9 @@
         <activity android:name=".WakeUpActivity" />
         <activity android:name=".ExploreActivity" />
         <activity android:name=".ToiletActivity" />
-        <activity android:name=".BackyardActivity"></activity>
+        <activity android:name=".BackyardActivity" />
+        <activity android:name=".ScreamActivity" />
+        <activity android:name=".YesActivity"></activity>
     </application>
 
 </manifest>

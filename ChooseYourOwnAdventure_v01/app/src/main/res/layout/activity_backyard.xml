@@ -32,10 +32,6 @@
         android:textAlignment="center"
         android:textSize="30sp" />
 
-    <Space
-        android:layout_width="match_parent"
-        android:layout_height="25dp" />
-
     <TextView
         android:id="@+id/tvQuestionExplore2"
         android:layout_width="match_parent"
@@ -52,14 +48,14 @@
         <Button
             android:id="@+id/buttonLeftScream"
             android:layout_width="wrap_content"
-            android:layout_height="150dp"
+            android:layout_height="87dp"
             android:layout_weight="1"
             android:text="SCREAM" />
 
         <Button
             android:id="@+id/buttonRightFaint"
             android:layout_width="wrap_content"
-            android:layout_height="150dp"
+            android:layout_height="86dp"
             android:layout_weight="1"
             android:text="FAINT" />
     </LinearLayout>

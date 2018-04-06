@@ -15,8 +15,8 @@ Button buttonRightToilet;
         setContentView(R.layout.activity_explore);
 
         buttonLeftBackyard = findViewById(R.id.buttonLeftBackyard);
-        buttonRightToilet.setOnClickListener(this);
-        buttonRightToilet = findViewById(R.id.buttonRightFaint);
+        buttonLeftBackyard.setOnClickListener(this);
+        buttonRightToilet = findViewById(R.id.buttonRightToilet);
         buttonRightToilet.setOnClickListener(this);
     }
 
