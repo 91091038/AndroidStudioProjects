@@ -21,7 +21,8 @@
         <activity android:name=".ToiletActivity" />
         <activity android:name=".BackyardActivity" />
         <activity android:name=".ScreamActivity" />
-        <activity android:name=".YesActivity"></activity>
+        <activity android:name=".YesActivity" />
+        <activity android:name=".FaintActivity"></activity>
     </application>
 
 </manifest>

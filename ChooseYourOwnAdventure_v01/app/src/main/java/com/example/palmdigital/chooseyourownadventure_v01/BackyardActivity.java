@@ -32,7 +32,12 @@ Button buttonRightFaint;
             Intent i = new Intent(this, MainActivity.class);
             startActivity(i);
         }
-        
+        else
+        {
+            Intent i = new Intent(this, FaintActivity.class);
+            startActivity(i);
+        }
+
 
     }
 }
