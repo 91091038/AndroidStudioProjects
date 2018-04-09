@@ -13,23 +13,17 @@
         android:layout_height="25dp" />
 
     <TextView
-        android:id="@+id/tvTitleWakeUp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Choose Your Own Adventure_v01"
-        android:textAlignment="center"
-        android:textSize="20sp" />
-
-    <Space
-        android:layout_width="match_parent"
-        android:layout_height="25dp" />
-
-    <TextView
         android:id="@+id/tvWakeUp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="You wake up and have a boring day. The end."
         android:textAlignment="center"
         android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/buttonRestart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BACK TO START" />
 
 </LinearLayout>
